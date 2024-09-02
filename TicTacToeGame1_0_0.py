@@ -16,7 +16,8 @@ while True:
     if(choice==1):
         print("Game Mode: Player VS Player------------------------------------------------------------------------------")
         pvp.play_game()
-        
+    
+    
     elif(choice==2):
         print("Game Mode: Player VS Computer------------------------------------------------------------------------------")
 
